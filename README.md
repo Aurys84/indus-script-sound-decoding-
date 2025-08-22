@@ -1,3 +1,12 @@
+# Indus Script Sound-Decoding Template
+
+> 📑 This repository can also be used as a **template** for linguistic or acoustic research.  
+> It provides a ready-to-use structure with:
+> - Detailed study in DOCX and PDF formats  
+> - A structured README with overview, methodology, and references  
+> - Example mappings between symbols and sound frequencies  
+
+Researchers can **fork** or **use this template** to build their own projects, adapt the methodology, or extend the comparative analysis.
 # Decoding the Indus Script through Sound Frequencies  
 
 ## Overview  
