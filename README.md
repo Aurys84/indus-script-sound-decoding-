@@ -1,5 +1,7 @@
 # Indus Script Sound-Decoding Template
 ![Indus Script Tablets](https://upload.wikimedia.org/wikipedia/commons/9/91/Indus_script_tablets.jpg)
+
+*Figure 1. Indus script tablets with undeciphered inscriptions.*
 > 📑 This repository can also be used as a **template** for linguistic or acoustic research.  
 > It provides a ready-to-use structure with:
 > - Detailed study in DOCX and PDF formats  
