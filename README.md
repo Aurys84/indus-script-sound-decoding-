@@ -1,4 +1,5 @@
 # Indus Script Sound-Decoding Template
+
 ![Indus Script Tablets](https://upload.wikimedia.org/wikipedia/commons/9/91/Indus_script_tablets.jpg)
 
 *Figure 1. Indus script tablets with undeciphered inscriptions.*
