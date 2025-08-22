@@ -1,6 +1,6 @@
 ![Indus Script Tablets](harappa_tablets.jpg)  
+
 *Figure 1. Indus script tablets with undeciphered inscriptions.*
-*Figure 1. Indus script tablets with undeciphered inscriptions.*](https://github.com/Aurys84/indus-script-sound-decoding-.git)
 
 # Indus Script Sound-Decoding Template
 
