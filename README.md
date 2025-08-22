@@ -1,8 +1,9 @@
+
+# Indus Script Sound-Decoding Template
+
 ![Indus Script táblák](harappa_tablets.jpg)
 
 *Figure 1. Indus script tablets with undeciphered inscriptions.*
-
-# Indus Script Sound-Decoding Template
 
 📄 This repository can also be used as a **template** for linguistic or acoustic research.  
 It provides a ready-to-use structure with:  
