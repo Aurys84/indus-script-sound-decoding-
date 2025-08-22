@@ -1,7 +1,7 @@
 
 # Indus Script Sound-Decoding Template
 
-p align="center">
+<p align="center">
   <img src="harappa_tablets.jpg" alt="Indus Script Tablets" width="500"/>
 </p>
 
