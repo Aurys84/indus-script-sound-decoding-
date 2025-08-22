@@ -1,8 +1,7 @@
+![Indus Script Tablets](https://upload.wikimedia.org/wikipedia/commons/9/91/Indus_script_tablets.jpg)  
+*1. ábra. Indus írású táblák megfejtetlen jelekkel.*
+
 # Indus Script Sound-Decoding Template
-
-![Indus Script Tablets](https://upload.wikimedia.org/wikipedia/commons/9/91/Indus_script_tablets.jpg)
-
-*1. ábra. Indus írású táblák megfejtetlen jelekkel.*wikimedia.org/wikipedia/commons/9/91/Indus_script_tablets.jpg)
 
 *Figure 1. Indus script tablets with undeciphered inscriptions.*
 > 📑 This repository can also be used as a **template** for linguistic or acoustic research.  
