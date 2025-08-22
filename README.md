@@ -1,7 +1,9 @@
 
 # Indus Script Sound-Decoding Template
 
-![Indus Script táblák](harappa_tablets.jpg)
+p align="center">
+  <img src="harappa_tablets.jpg" alt="Indus Script Tablets" width="500"/>
+</p>
 
 *Figure 1. Indus script tablets with undeciphered inscriptions.*
 
