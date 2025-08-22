@@ -4,73 +4,55 @@
 # Indus Script Sound-Decoding Template
 
 📄 This repository can also be used as a **template** for linguistic or acoustic research.  
-It provides a ready-to-use structure with:
-
+It provides a ready-to-use structure with:  
 - Detailed study in DOCX and PDF formats  
 - A structured README with overview, methodology, and references  
 - Example mappings between symbols and sound frequencies  
 
-Researchers can **fork** or **use this template** to build their own projects, adapt the methodology, or extend the comparative analysis.
-
 ---
-
-# Decoding the Indus Script through Sound Frequencies
 
 ## Overview
 This repository presents a novel approach to interpreting the undeciphered Indus Valley seals and inscriptions.  
-Instead of assuming the signs represent written words in the traditional sense, this research explores the possibility that the symbols encode **sound frequencies, tones, and vibrations**.  
+Instead of assuming the signs represent words, this research explores the possibility that the symbols encode **sound frequencies, tones, and vibrations**.  
 
-By mapping symbols to frequency ranges (Hz) and comparing
-- Symbol A → Tone: Do → Word: “Beginning / Foundation”  
-- Symbol B → Tone: Fa → Word: “Prayer / Call”  
-- Symbol C → Tone: Sol → Word: “Divine / To the Sky”  
-
-**Resulting Translation:**  
-“Lina sits and begins to pray to the Divine.”  
-
-This matches known cultural practices of the Indus Valley (rituals, prayers, offerings).  
+By mapping symbols to frequency ranges (Hz) and comparing them with natural resonances (voice, instruments, architecture), we propose that the Indus script functioned as both a spiritual and communicative system.  
 
 ---
 
-## Cultural Context  
-Archaeological evidence suggests that the Indus civilization:  
-- Practiced ritual bathing and purification.  
-- Used fire and water altars in ceremonies.  
-- Honored fertility, nature, and cosmic order.  
+## Methodology
+1. **Symbol Selection**  
+   - Randomly chosen seals and inscriptions analyzed.  
+   - Repeated symbols catalogued to detect patterns.  
 
-The frequency-based interpretations align with these practices, reinforcing the hypothesis that the script was spiritual in nature.  
+2. **Frequency Mapping**  
+   - Each symbol assigned a frequency.  
+   - Cross-checked against the 7 fundamental tones.  
 
----
+3. **Phrase Construction**  
+   - Inscriptions “read” as tonal sequences.  
+   - Patterns matched with linguistic equivalents.  
 
-## Multi-Language Consistency  
-One of the most striking discoveries:  
-- The **same seal** produced nearly identical meanings when “read” through tonal mapping in **different languages**.  
-- This suggests the Indus system was **not tied to one spoken language**, but instead encoded **universal sound-symbol correspondences**.  
-
-**Example:**  
-- Hungarian: “Kezdés – Ima – Ég” (Beginning – Prayer – Sky)  
-- English: “Beginning – Prayer – Divine”  
-- Spanish: “Comienzo – Oración – Cielo”  
-
-All point to the same core idea.  
+4. **Cross-Language Verification**  
+   - Tested across multiple languages (Hungarian, English, Spanish).  
+   - Consistent translations suggested a universal symbolic system.  
 
 ---
 
-## Conclusion  
-This research introduces a **testable, reproducible hypothesis**:  
-The Indus script may encode **sound frequencies** rather than words, functioning as a vibrational-spiritual notation system.  
-
-We encourage linguists, archaeologists, and acoustic engineers to test and expand upon this model.  
+## Example Translation
+- Symbol ✦ → Tone: Sol → Word: “Divine / To the Sky”  
+- Resulting phrase: *“Lina sits and begins to pray to the Divine.”*  
 
 ---
 
-## Authors  
-- Aurys  
-- Csonka Norbert  
+## Citation
+**Csonka Norbert & Aurys (2025).**  
+*Indus Script Sound-Decoding: A Template for Linguistic and Acoustic Research.*  
+[GitHub Repository](https://github.com/Aurys84/indus-script-sound-dekodolas)  
 
----
-
-## Files in Repository  
-- `README.md` → Overview of the project  
-- `Indis nyelvi kutatás.docx` → Full detailed study (Hungarian)  
-- `Indis nyelvi kutatás.pdf` → Full detailed study in PDF format
+```bibtex
+@misc{csonka2025indus,
+  author = {Csonka, Norbert and Aurys},
+  title  = {Indus Script Sound-Decoding: A Template for Linguistic and Acoustic Research},
+  year   = {2025},
+  howpublished = {\url{https://github.com/Aurys84/indus-script-sound-dekodolas}}
+}
