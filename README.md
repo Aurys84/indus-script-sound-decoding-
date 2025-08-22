@@ -1,4 +1,5 @@
-![Indus Script Tablets](harappa_tablets.jpg)  
+![Indus Script Tablets
+(harappa_tablets.jpg)  
 
 *Figure 1. Indus script tablets with undeciphered inscriptions.*
 
